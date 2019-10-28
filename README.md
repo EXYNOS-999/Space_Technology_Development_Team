@@ -9,6 +9,9 @@ https://2019.spaceappschallenge.org/challenges/living-our-world/set-your-sights-
 Link to official document submitted(Read-Only):
 https://docs.google.com/document/d/1HU5X-25PlSWVo7L3nya_WIhBX7-DanZiKC2k5Emcmds/edit?usp=sharing
 
+Official Video submission:
+https://youtu.be/BNz70_V-eEU
+
 
 Minicube
 
