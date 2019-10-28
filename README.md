@@ -26,12 +26,19 @@ Minicube
 
 
 
+
+
+
 The main idea of this project is to develop CubeSat satellites through the development of new mechanisms and methods to improve the functioning of the satellite.
 
 The mission of the satellite will be to take pictures of the Earth's surface from space and send information to an earth station (for air navigation and climate change study).
 
 
 CubeSats are a class of research spacecraft called nanosatellites. CubeSats are built to standard dimensions (Units or “U”) of 10 cm x 10 cm x 10 cm. They can be 1U, 2U, 3U, 6U or 12U in size, and typically weigh less than 1.33 kg. These satellites can be used for communications, studying the earth's upper atmosphere and taking pictures of the earth from space.The communication between the satellite and the earth station is carried out by frequencies VHF/UHF according to the licenses granted by the state in the spectrum distribution.They can be placed on orbits outside the atmosphere or placed in balloons at high altitudes.The chassis of the CubeSat would be made of small-sized flaps controlled by bimetallic springs to maintain thermal stability inside the satellite. As soon as the temperature inside the satellite increases due to the difference in the thermal expansion it leads to the expansion of spring and therefore opening the flaps vice-versa for the closing of the flaps when the system cools.
+
+
+
+
 
 
 
@@ -75,6 +82,12 @@ The problems that we will address in this project are:
 
 4- Lack of Onboard compute power for collection/sensing and processing of data.
 
+
+
+
+
+
+
     Solution:
 
 Proposed Solutions To The Above Problems Numbered:
@@ -102,7 +115,9 @@ The use of changing the position of the gravity of the satellite (physical weigh
 
 
 
-    Conclusion:
+
+
+Conclusion:
 
 We have developed a satilight which is capable of going to orbit and also detecting climate change using a camera connected to a low power raspberry PI 4. We have also developed the guidance and control mechanisms of the satellite .In our project we harnessed the changing satellite mass in controlling satellite orientation as we developed the solar cells of the satellite. 
 
@@ -111,6 +126,8 @@ We have developed a satilight which is capable of going to orbit and also detect
 
 
 Leaders:
+
+
 1- Rishabh Chakrabarty  
  @exynos - Computer Control and Communication Systems
  
