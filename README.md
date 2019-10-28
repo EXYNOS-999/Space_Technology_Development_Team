@@ -1,0 +1,2 @@
+# Space_Technology_Development_Team
+The Challenge | Set Your Sights High! NASA builds and operates numerous satellite and airborne missions that deliver critical measurements and data to the world’s science community. Your challenge is to develop a tool that enables people to identify NASA satellites and satellite instruments as they fly over their locations on Earth. Help people explore the data and applications coming from the instruments overhead!
